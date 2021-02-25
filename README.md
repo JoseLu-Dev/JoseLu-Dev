@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**JoseLu-Dev/JoseLu-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+I am a student trying several technologies 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+- 🔭 I’m currently working on [Locatia](https://github.com/JoseLu-Dev/AndroidLocationApp) and [IonicPokedex](https://github.com/JoseLu-Dev/IonicPokedex)
+- 🌱 I’m currently learning Ionic
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselu-dev&layout=compact"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joselu-dev&show_icons=true" />
