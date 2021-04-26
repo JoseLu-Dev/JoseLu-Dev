@@ -6,8 +6,8 @@ I am a student trying several technologies
 
 <br/>
 
-- 🔭 I’m currently working on [Locatia](https://github.com/JoseLu-Dev/AndroidLocationApp) and [IonicPokedex](https://github.com/JoseLu-Dev/IonicPokedex)
-- 🌱 I’m currently learning Ionic
+- 🔭 I’m currently working on my Final Course Project
+- 🌱 I’m currently learning Ionic and Node.js
 
 <br/>
 
