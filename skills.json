@@ -11,6 +11,21 @@
                     "name": "Angular",
                     "icon": "angular",
                     "page": "https://angular.io/"
+                },
+                {
+                    "name": "Ionic",
+                    "icon": "ionic",
+                    "page": "https://ionicframework.com/"
+                },
+                {
+                    "name": "Android",
+                    "icon": "android",
+                    "page": "https://developer.android.com/"
+                },
+                {
+                    "name": "Tailwind",
+                    "icon": "tailwindcss",
+                    "page": "https://tailwindcss.com/"
                 }
             ]
         },
@@ -25,6 +40,21 @@
                     "name": "Node.js",
                     "icon": "nodedotjs",
                     "page": "https://nodejs.org/"
+                },
+                {
+                    "name": "Express",
+                    "icon": "express",
+                    "page": "https://expressjs.com/"
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": "mongodb",
+                    "page": "https://www.mongodb.com/"
+                },
+                {
+                    "name": "SQLite",
+                    "icon": "sqlite",
+                    "page": "https://www.sqlite.org/index.html"
                 }
             ]
         },
@@ -34,7 +64,23 @@
                 "es": "devops"
             },
             "icon": "gear",
-            "skills": []
+            "skills": [
+                {
+                    "name": "Git",
+                    "icon": "git",
+                    "page": "https://git-scm.com/"
+                },
+                {
+                    "name": "Github",
+                    "icon": "github",
+                    "page": "https://github.com/"
+                },
+                {
+                    "name": "Heroku",
+                    "icon": "heroku",
+                    "page": "https://www.heroku.com/home"
+                }
+            ]
         },
         {
             "name": {
@@ -42,7 +88,33 @@
                 "es": "lenguajes"
             },
             "icon": "code",
-            "skills": []
+            "skills": [
+                {
+                    "name": "HTML5",
+                    "icon": "html5",
+                    "page": "https://devdocs.io/html/"
+                },
+                {
+                    "name": "CSS3",
+                    "icon": "css3",
+                    "page": "https://devdocs.io/css/"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "javascript",
+                    "page": "https://devdocs.io/javascript/"
+                },
+                {
+                    "name": "Typescript",
+                    "icon": "typescript",
+                    "page": "https://www.typescriptlang.org/"
+                },
+                {
+                    "name": "Java",
+                    "icon": "java",
+                    "page": "https://docs.oracle.com/en/java/"
+                }
+            ]
         },
         {
             "name": {
@@ -55,6 +127,21 @@
                     "name": "VS Code",
                     "icon": "visualstudiocode",
                     "page": "https://code.visualstudio.com/"
+                },
+                {
+                    "name": "Android Studio",
+                    "icon": "androidstudio",
+                    "page": "https://developer.android.com/studio"
+                },
+                {
+                    "name": "Jet Brain IDEs",
+                    "icon": "jetbrains",
+                    "page": "https://www.jetbrains.com/"
+                },
+                {
+                    "name": "Notion",
+                    "icon": "notion",
+                    "page": "https://www.notion.so/product"
                 }
             ]
         },
@@ -64,7 +151,13 @@
                 "es": "testeo"
             },
             "icon": "bug",
-            "skills": []
+            "skills": [
+                {
+                    "name": "Jest",
+                    "icon": "jest",
+                    "page": "https://jestjs.io/"
+                }
+            ]
         }
     ]
 }
