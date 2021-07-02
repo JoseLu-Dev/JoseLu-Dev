@@ -1,44 +1,70 @@
 {
-    "frontend": {
-        "icon": "web",
-        "skills": [
-            {
-                "name": "Angular",
-                "icon": "angular",
-                "page": "https://angular.io/"
-            }
-        ]
-    },
-    "backend": {
-        "icon": "server",
-        "skills": [
-            {
-                "name": "Node.js",
-                "icon": "nodedotjs",
-                "page": "https://nodejs.org/"
-            }
-        ]
-    },
-    "devops": {
-        "icon": "gear",
-        "skills": []
-    },
-    "languages": {
-        "icon": "code",
-        "skills": []
-    },
-    "tools": {
-        "icon": "tool",
-        "skills": [
-            {
-                "name": "VS Code",
-                "icon": "visualstudiocode",
-                "page": "https://code.visualstudio.com/"
-            }
-        ]
-    },
-    "testing": {
-        "icon": "bug",
-        "skills": []
-    }
+    "skills": [
+        {
+            "name": {
+                "en": "frontend",
+                "es": "frontend"
+            },
+            "icon": "web",
+            "skills": [
+                {
+                    "name": "Angular",
+                    "icon": "angular",
+                    "page": "https://angular.io/"
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "backend",
+                "es": "backend"
+            },
+            "icon": "server",
+            "skills": [
+                {
+                    "name": "Node.js",
+                    "icon": "nodedotjs",
+                    "page": "https://nodejs.org/"
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "devops",
+                "es": "devops"
+            },
+            "icon": "gear",
+            "skills": []
+        },
+        {
+            "name": {
+                "en": "languages",
+                "es": "lenguajes"
+            },
+            "icon": "code",
+            "skills": []
+        },
+        {
+            "name": {
+                "en": "tools",
+                "es": "herramientas"
+            },
+            "icon": "tool",
+            "skills": [
+                {
+                    "name": "VS Code",
+                    "icon": "visualstudiocode",
+                    "page": "https://code.visualstudio.com/"
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "testing",
+                "es": "testeo"
+            },
+            "icon": "bug",
+            "skills": []
+        }
+    ]
 }
