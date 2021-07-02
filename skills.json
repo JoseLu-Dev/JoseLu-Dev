@@ -1,0 +1,23 @@
+{
+    "frontend": [
+        {
+            "name": "Angular",
+            "icon": "angular",
+            "page": "https://angular.io/"
+        }
+    ],
+    "backend": [
+        {
+            "name": "Node.js",
+            "icon": "nodedotjs",
+            "page": "https://nodejs.org/"
+        }
+    ],
+    "tools": [
+        {
+            "name": "VS Code",
+            "icon": "visualstudiocode",
+            "page": "https://code.visualstudio.com/"
+        }
+    ]
+}
