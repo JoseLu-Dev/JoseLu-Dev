@@ -1,23 +1,44 @@
 {
-    "frontend": [
-        {
-            "name": "Angular",
-            "icon": "angular",
-            "page": "https://angular.io/"
-        }
-    ],
-    "backend": [
-        {
-            "name": "Node.js",
-            "icon": "nodedotjs",
-            "page": "https://nodejs.org/"
-        }
-    ],
-    "tools": [
-        {
-            "name": "VS Code",
-            "icon": "visualstudiocode",
-            "page": "https://code.visualstudio.com/"
-        }
-    ]
+    "frontend": {
+        "icon": "web",
+        "skills": [
+            {
+                "name": "Angular",
+                "icon": "angular",
+                "page": "https://angular.io/"
+            }
+        ]
+    },
+    "backend": {
+        "icon": "server",
+        "skills": [
+            {
+                "name": "Node.js",
+                "icon": "nodedotjs",
+                "page": "https://nodejs.org/"
+            }
+        ]
+    },
+    "devops": {
+        "icon": "gear",
+        "skills": []
+    },
+    "languages": {
+        "icon": "code",
+        "skills": []
+    },
+    "tools": {
+        "icon": "tool",
+        "skills": [
+            {
+                "name": "VS Code",
+                "icon": "visualstudiocode",
+                "page": "https://code.visualstudio.com/"
+            }
+        ]
+    },
+    "testing": {
+        "icon": "bug",
+        "skills": []
+    }
 }
