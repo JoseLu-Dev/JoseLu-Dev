@@ -37,6 +37,16 @@
             "icon": "server",
             "skills": [
                 {
+                    "name": "Spring",
+                    "icon": "spring",
+                    "page": "https://spring.io/"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "mysql",
+                    "page": "https://www.mysql.com/"
+                },
+                {
                     "name": "Node.js",
                     "icon": "nodedotjs",
                     "page": "https://nodejs.org/"
